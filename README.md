@@ -1,4 +1,4 @@
-# ESP32-website
+# ESP32-dashboard
 this is part of a project for a competition where the esp32 connects to a Wi-Fi network and hosts a website that only people connected to the same network can access by typing the esp32 Ip address into any web browser (you can get the ip adress from the serial monitor in the arduino ide )
 displaying dashboard containing estimations calculated from sensors 
 
